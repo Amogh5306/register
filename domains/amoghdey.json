@@ -4,6 +4,7 @@
           "email": "amoghdey@gmail.com"
     },
     "records": {
-          "CNAME": "amoghdey-portfolio.vercel.app"
+          "CNAME": "amoghdey-portfolio.vercel.app",
+          "TXT": ["vc-domain-verify=amoghdey.is-a.dev,073735d80958f08c9d83"]
     }
 }
